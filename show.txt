@@ -1,9 +1,17 @@
-I can't believe I got fired from the calendar factory. All I did was take a day off.
-
-I'd tell you a chemistry joke but I know I wouldn't get a reaction.
-
-I wasn't originally going to get a brain transplant, but then I changed my mind.
-
-My math teacher called me average. How mean!
-
-I wanted to buy a neutrino, but had to settle for a used one.
+AJAX stands for Asynchronous JavaScript and XML. 
+AJAX is a new technique for creating better, faster, and more interactive web applications with the help of XML, HTML, CSS, and Java Script.
+Ajax uses XHTML for content, CSS for presentation, along with Document Object Model and JavaScript for dynamic content display.
+How do I run Ajax?
+Steps
+1.Prepare a picture for writing an Ajax program. ...
+2.Open any text editor. ...
+3.Create a new file in the text editor. ...
+4.Save the file as a text document with the name of “ajax-data.txt.” ...
+5.Create a new file for a webpage. ...
+6.Copy the following code: ...
+7.Save the file. ...
+8.Click the drop down arrow to choose the file extension.
+9.Select “Hyper Text Markup Language file.” 
+10.Test the HTML file in a Web browser.
+11.Click the button below the picture to test the script.
+12.Your final webpage.
